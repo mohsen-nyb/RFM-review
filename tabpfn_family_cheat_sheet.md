@@ -1099,26 +1099,4 @@ Key question:
 
 ---
 
-# Next Topic: Relational Foundation Models
 
-The central comparison to keep in mind is:
-
-```text
-flatten relational structure
-```
-
-versus
-
-```text
-model relational structure natively
-```
-
-This leads naturally to:
-
-* Relational Transformers;
-* relational in-context learning;
-* graph foundation models;
-* heterogeneous graph foundation models;
-* relational database foundation models.
-
-You can paste this directly into a `README.md` or a dedicated `tabpfn-cheatsheet.md` file.
